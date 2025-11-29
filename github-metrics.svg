@@ -209,7 +209,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    16 Languages
+                    15 Languages
                 </h2>
             </section>
             <section class="column">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="364.5638662420209" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="364.5638662420209" y="0" width="40.30553339807509" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="404.869399640096" y="0" width="34.41733388663295" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="439.28673352672894" y="0" width="11.03502938853262" height="8" fill="#3ac486"/>
-                    <rect mask="url(#languages-bar)" x="450.3217629152616" y="0" width="3.2635291674331577" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="453.58529208269476" y="0" width="2.9060830937278923" height="8" fill="#e16737"/>
-                    <rect mask="url(#languages-bar)" x="456.49137517642265" y="0" width="1.8965394531278867" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.38791462955055" y="0" width="1.6120853704495222" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="365.7643313841647" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="365.7643313841647" y="0" width="38.055690607389884" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="403.82002199155454" y="0" width="34.53066604443106" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="438.35068803598557" y="0" width="15.595976591246611" height="8" fill="#3ac486"/>
+                    <rect mask="url(#languages-bar)" x="453.9466646272322" y="0" width="2.9156524772495103" height="8" fill="#e16737"/>
+                    <rect mask="url(#languages-bar)" x="456.86231710448175" y="0" width="1.6173937744702869" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="458.479710878952" y="0" width="0.9168402397063838" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.3965511186584" y="0" width="0.6034488813415941" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -255,15 +255,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Makefile
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#e16737" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         MATLAB
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Dockerfile
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -273,15 +273,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Dockerfile
+                        Makefile
                     </div>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2025, 18:13:00 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2025, 19:20:47 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
